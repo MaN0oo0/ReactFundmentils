@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.test{
+  color: green;
+}
+.custom_onSale{
+  position: absolute;
+  top: -11px;
+  left: -4px;
+
+}
